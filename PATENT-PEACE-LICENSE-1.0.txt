@@ -1,0 +1,453 @@
+                        Patent Peace License
+                            Version 1.0
+
+   This license is based on the text of the Apache License, Version 2.0,
+   copyright The Apache Software Foundation, with modifications. It is
+   not the Apache License and is not endorsed by The Apache Software
+   Foundation. The principal modifications are Section 10 (Patent Peace),
+   Section 11 (Excluded Rights and Separation), Section 12 (Offer of
+   Adoption), and Section 13 (Successor Licenses).
+
+   PREAMBLE
+
+   This License exists so that people who offer their work to the world
+   are left in peace to do so, and so that a higher, mutually agreed
+   standard of conducting business and collaboration can be protected in
+   a future of democratized and decentralized development, for everyone
+   who develops, however they develop.
+
+   It seeks to defeat no one. It asks one thing of everyone: that no
+   patent be used against the shared work. It does not punish a person
+   who does so; it dissolves the patent so used, and the way back
+   remains open. It is offered in the hope that better licenses will grow
+   from it and succeed it.
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 13 of this
+      document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making
+      modifications, including but not limited to software source code,
+      documentation source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      notice that is included in or attached to the work (an example is
+      provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other
+      modifications represent, as a whole, an original work of
+      authorship. For the purposes of this License, Derivative Works
+      shall not include works that remain separable from, or merely link
+      (or bind by name) to the interfaces of, the Work and Derivative
+      Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright
+      owner or by an individual or Legal Entity authorized to submit on
+      behalf of the copyright owner. For the purposes of this definition,
+      "submitted" means any form of electronic, verbal, or written
+      communication sent to the Licensor or its representatives,
+      including but not limited to communication on electronic mailing
+      lists, source code control systems, and issue tracking systems that
+      are managed by, or on behalf of, the Licensor for the purpose of
+      discussing and improving the Work, but excluding communication that
+      is conspicuously marked or otherwise designated in writing by the
+      copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal
+      Entity on behalf of whom a Contribution has been received by
+      Licensor and subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, including Sections 10 and 11, each Contributor hereby
+      grants to You a perpetual, worldwide, non-exclusive, no-charge,
+      royalty-free, irrevocable (except as stated in Section 10)
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, including Sections 10 and 11, each Contributor hereby
+      grants to You a perpetual, worldwide, non-exclusive, no-charge,
+      royalty-free, irrevocable (except as stated in Section 10) patent
+      license to make, have made, use, offer to sell, sell, import, and
+      otherwise transfer the Work, where such license applies only to
+      those patent claims licensable by such Contributor that are
+      necessarily infringed by their Contribution(s) alone or by
+      combination of their Contribution(s) with the Work to which such
+      Contribution(s) was submitted. If You make an Attack, as defined in
+      Section 10, all patent licenses granted to You under this License
+      terminate as of the moment the Attack is made, and the further
+      consequences stated in Section 10 apply.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute
+          must include a readable copy of the attribution notices
+          contained within such NOTICE file, excluding those notices that
+          do not pertain to any part of the Derivative Works, in at least
+          one of the following places: within a NOTICE text file
+          distributed as part of the Derivative Works; within the Source
+          form or documentation, if provided along with the Derivative
+          Works; or, within a display generated by the Derivative Works,
+          if and wherever such third-party notices normally appear. The
+          contents of the NOTICE file are for informational purposes only
+          and do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License, and provided that no such
+      terms exclude, limit, or modify the application of Sections 10
+      through 13, as required by Section 10.7.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing
+      the origin of the Work and reproducing the content of the NOTICE
+      file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or
+      conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS
+      FOR A PARTICULAR PURPOSE. You are solely responsible for
+      determining the appropriateness of using or redistributing the Work
+      and assume any risks associated with Your exercise of permissions
+      under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   10. Patent Peace.
+
+      10.1 Purpose. This Section keeps every person who acts in good
+      faith in full possession of every right under this License, and
+      ensures that no patent can be used against a Protected Work. A
+      person who uses a patent against a Protected Work steps outside this
+      peace, and the way back remains open. This peace belongs to no one
+      and is held in common by everyone who upholds it; every person
+      described in Section 10.9 may defend it, and anyone may stand as
+      guardian for a person who is attacked. Sections 10 through 13
+      shall be interpreted to give the fullest effect to this purpose and
+      to the Preamble.
+
+      10.2 Definitions. For the purposes of Sections 10 through 13:
+
+      "Covered Work" means (a) the Work; (b) any Derivative Work, and any
+      other work containing any part of the Work; and (c) any software or
+      hardware specifically designed to extend, plug into, or
+      interoperate with a work described in (a) or (b).
+
+      "Field Declaration" means a file named "PATENT-PEACE-FIELD" that is
+      distributed with the Work and describes a field of technology.
+
+      "Protected Work" means any Covered Work, and any software,
+      hardware, content, model, or method that falls within the field
+      described in any Field Declaration distributed with any version of
+      the Work. Any later change to, or removal of, a Field Declaration
+      does not narrow the Protected Works with respect to any version of
+      the Work previously distributed with that Field Declaration.
+
+      "Patent Assertion" means initiating, or directing, funding, or
+      knowingly inducing another to initiate, a lawsuit, administrative
+      proceeding, or written demand for payment or other concession,
+      alleging infringement of any patent.
+
+      "Attack" means any Patent Assertion alleging that a Protected Work,
+      or the making, use, sale, offer for sale, import, distribution, or
+      practice of a Protected Work, infringes a patent, other than a
+      Defensive Assertion.
+
+      "Defensive Assertion" means a Patent Assertion made (a) as a
+      counterclaim, or otherwise in response to a Patent Assertion that
+      the other party first made against You; or (b) as a Guardian
+      Assertion.
+
+      "Guardian Assertion" means a Patent Assertion made, in order to
+      protect any person against whom an Attack has been made, against
+      the person who made that Attack, at any time before that person's
+      rights are restored under Section 10.6, to the extent that the
+      person making it has standing under applicable law. A Guardian
+      Assertion that is not withdrawn within thirty (30) days after the
+      attacking person's rights are restored under Section 10.6 ceases
+      to be a Defensive Assertion.
+
+      An Attack is made by You if it is made by You, by any person acting
+      on Your behalf or at Your direction, or by any party to whom You
+      transferred or exclusively licensed a patent after You first
+      received the Work, if You retain any financial or other interest in
+      that Attack. Because "You" includes Your entire Legal Entity, an
+      Attack by any entity within Your Legal Entity is an Attack by You.
+
+      10.3 Acceptance. By exercising any permission granted by this
+      License, You accept Sections 10 through 12.
+
+      10.4 License Upon Attack. If You make an Attack, then from the
+      moment the Attack is made, You grant to every person a worldwide,
+      royalty-free, non-exclusive, irrevocable license, under every
+      patent asserted in that Attack and every other patent that You then
+      own or control, including patents later issuing from applications
+      You then own or control, to make, have made, use, sell, offer for
+      sale, import, distribute, and practice Protected Works.
+
+      10.5 Stepping Outside the Peace. If You make an Attack, then from
+      the moment the Attack is made:
+
+      (a) all rights granted to You under this License terminate;
+
+      (b) You shall cease all distribution of the Work, of every
+          Derivative Work, and of every other work containing any part
+          of the Work;
+
+      (c) You shall make whole every person against whom the Attack is
+          made, for the reasonable costs, including legal fees, and the
+          damages that the Attack caused them; and
+
+      (d) so that the scope of the license granted under Section 10.4
+          can be known, You shall, upon written request by any person
+          against whom the Attack is made, disclose to that person in
+          writing, within thirty (30) days, every patent and patent
+          application that You own or control, and every transfer or
+          exclusive license of any patent made by You after You first
+          received the Work.
+
+      10.6 The Way Back. Your rights under this License are restored at
+      any time when You (a) withdraw every Attack with prejudice, and (b)
+      have made whole every person against whom it was made, as provided
+      in Section 10.5(c). Restoration does not affect any license granted
+      under Section 10.4, which remains in effect.
+
+      10.7 Pass-Through. Every sublicense of the Work, and every license
+      under which You distribute the Work or any work containing any part
+      of it, must include Sections 10 through 13 as binding conditions.
+      Any term that purports to exclude, limit, or modify the application
+      of Sections 10 through 13 is void to that extent.
+
+      10.8 Survival. Termination under this Section does not affect
+      rights validly granted to others under this License. Sections 10.4,
+      10.5(b), 10.5(c), and 10.5(d) survive any termination of this
+      License.
+
+      10.9 Third-Party Beneficiaries. Every person who makes, uses,
+      sells, offers for sale, imports, distributes, or practices a
+      Protected Work is an intended third-party beneficiary of Sections
+      10 and 11 and may enforce them directly, including as a defense,
+      counterclaim, or independent claim for damages, disclosure,
+      injunction, or specific performance, in any proceeding and in any
+      forum.
+
+      10.10 Extent. Every provision of Sections 10 through 13 applies to the
+      maximum extent permitted by applicable law. If any provision is
+      held unenforceable in any jurisdiction, it shall be enforced there
+      to the maximum extent permissible, and the remainder of those
+      Sections and of this License remains in effect.
+
+      10.11 Forum. Any person entitled to enforce this License or
+      Sections 10 through 13 may do so in any court of competent
+      jurisdiction.
+
+   11. Excluded Rights and Separation.
+
+      11.1 Excluded Rights. "Excluded Right" means any patent, copyright,
+      trade secret, trademark, or other right that a Contributor is not
+      entitled to license, including any such right held by a third party
+      that arose before the relevant Contribution was made. This License
+      does not grant, and does not purport to grant, any Excluded Right.
+
+      11.2 Remainder Unaffected. "Encumbered Portion" means any portion
+      of the Work, or of any Derivative Work, whose use is subject to an
+      Excluded Right. The existence, assertion, or enforcement of an
+      Excluded Right in an Encumbered Portion does not limit, suspend, or
+      terminate any right granted under this License in any other portion
+      of the Work or of any Derivative Work.
+
+      11.3 Good-Faith Inclusion. Including an Encumbered Portion in good
+      faith, without knowledge of the Excluded Right, is not a breach of
+      this License and does not affect the rights under this License of
+      the person who included it or of any other person.
+
+      11.4 Separation. Any person may remove, disable, replace, or
+      isolate any Encumbered Portion, or any portion reasonably believed
+      to be one. The remaining Work, and every work resulting from such
+      separation, remains licensed under this License in full, and such
+      separation requires no permission from any Contributor. Any person
+      who learns of an Excluded Right is encouraged to mark the affected
+      portion, so that others may separate it.
+
+      11.5 No Exemption from Patent Peace. This Section does not exempt
+      any right from Section 10. Every patent that You own or control is
+      subject to Section 10 if You make an Attack, regardless of when that
+      patent arose and whether it is an Excluded Right with respect to
+      any Contributor.
+
+   12. Offer of Adoption.
+
+      12.1 First Offer. Before You initiate any dispute concerning a
+      patent, copyright, or other intellectual property right against any
+      person, You shall offer that person, in writing, to resolve the
+      dispute in whole or in part by making the rights in dispute
+      available under this License. The offer may be made at the same
+      time as, but not later than, the first communication asserting the
+      dispute. This Section does not delay or condition any Defensive
+      Assertion; a person making a Defensive Assertion may, and is
+      encouraged to, make the same offer, and a person making a Guardian
+      Assertion is encouraged to invite the attacking person to take the
+      way back under Section 10.6.
+
+      12.2 Freedom of Adoption. An offer under this Section is an
+      invitation only. Adoption of this License must always be voluntary.
+      No offer may be conditioned on, or accompanied by, any threat, and
+      declining an offer carries no penalty, adverse inference, or
+      disadvantage of any kind. A communication that uses adoption of this
+      License as a means of coercion is not an offer under this Section.
+
+      12.3 Without Prejudice. An offer under this Section, and any
+      response to it, is made without prejudice, is not an admission of
+      any fact, claim, or liability, and may not be used against the
+      person who made it, to the maximum extent permitted by applicable
+      law.
+
+      12.4 Omission. Failure to make an offer under this Section does not
+      terminate or limit any right under this License. The offer rests on
+      understanding, not on enforcement.
+
+   13. Successor Licenses.
+
+      13.1 Invitation. This License is offered in the hope that better
+      licenses will grow from it. Anyone may write a license that
+      succeeds it.
+
+      13.2 Qualifying Successor. A "Qualifying Successor" is any license
+      that (a) is published openly and is available to everyone without
+      charge; (b) grants every person who acts in good faith at least the
+      permissions granted by Sections 2 through 5 of this License; (c)
+      protects every Protected Work, including every field described in
+      any Field Declaration, at least as fully as Sections 10 through 12
+      of this License; (d) contains a provision equivalent to this
+      Section 13; and (e) identifies itself as a successor to this
+      License or to another Qualifying Successor.
+
+      13.3 Choice. Each Contributor permits every person who receives the
+      Work under this License to use it, at that person's choice, under
+      any Qualifying Successor, in addition to this License. No person
+      may be required to make that choice.
+
+      13.4 No Escape. No choice under this Section reduces the protection
+      of any Protected Work, and no choice relieves any person of the
+      effect of an Attack made before or after the choice. To the extent
+      that a license claiming to be a successor fails any condition of
+      Section 13.2, it is not a Qualifying Successor, and this License
+      continues to apply in full.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Patent Peace License to your work.
+
+      1. Include a copy of this License in a file named LICENSE.
+
+      2. Optionally, extend the protection beyond works built on your
+         Work by adding a Field Declaration: a file named
+         "PATENT-PEACE-FIELD" describing a field of technology. Every
+         work within that field becomes a Protected Work under Section
+         10. A Field Declaration can later be widened, but removing or
+         narrowing it never narrows the protection for versions already
+         distributed with it.
+
+      3. Attach the following notice to each file, enclosed in the
+         appropriate comment syntax for the file format. A copyright
+         line is optional: copyright exists without it, and authors may
+         remain anonymous or use a collective or pseudonymous name.
+
+   Licensed under the Patent Peace License, Version 1.0 (the "License");
+   you may not use this file except in compliance with the License.
+   A copy of the License is included in the LICENSE file distributed
+   with this work.
+
+   SPDX-License-Identifier: LicenseRef-Patent-Peace-1.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+   implied. See the License for the specific language governing
+   permissions and limitations under the License.
